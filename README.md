@@ -11,7 +11,7 @@
   <a href="https://archit-tanwar.vercel.app/"  target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit-4CAF50?style=for-the-badge&logo=appveyor" alt="Live Demo"/>
   </a>
-  <a href="https://github.com/Apekshajawali/My-Potfolio-Website" target="_blank">
+  <a href="https://github.com/Architt1402/My-Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Repo"/>
   </a>
 </p>
