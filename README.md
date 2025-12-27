@@ -4,7 +4,7 @@
 
 <h1 align="center">🎨 3D Portfolio Website</h1>
 <p align="center">
-  by <b>Apeksha Jawali</b>
+  by <b>Archit Tanwar</b>
 </p>
 
 <p align="center">
